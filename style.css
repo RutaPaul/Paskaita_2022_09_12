@@ -1,0 +1,21 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table td{
+    border: 1px solid black;
+}
+td{
+    padding: 0.5rem;
+}
+.firstrow{
+    font-weight: bold;
+    color: white;
+    background-color: rgb(60, 124, 60);
+}
+.nuts{
+    background-color: rgb(115, 168, 185);
+}
+.price{
+    background-color: rgb(155, 238, 234);
+}
